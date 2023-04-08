@@ -1,0 +1,21 @@
+{
+  "name": "part_1",
+  "version": "1.0.0",
+  "description": "Using NodeJS and ExpressJS write these APIs Use any library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wasim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.32.0",
+    "slugify": "^1.6.6"
+  }
+}
